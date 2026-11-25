@@ -1,4 +1,4 @@
-<p align="center">
+# Day 13 Lab — 2A202603031 - Nguyễn Tấn Dũng
   <img src="docs/assets/hero.png" alt="Day 13 Lab: đọc point cloud VF và vẽ cuboid 3D đầu tiên" width="100%">
 </p>
 
